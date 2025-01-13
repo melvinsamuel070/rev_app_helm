@@ -13,7 +13,7 @@ spec:
     spec:
       containers: 
       - name: frontend1
-        image: melvinsamuel070/frontend1:1
+        image: melvinsamuel070/frontend1:2
         ports: 
         - containerPort: 3000
 
